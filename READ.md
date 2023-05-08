@@ -1,1 +1,0 @@
-Analyzing Fire Extinguishers.
