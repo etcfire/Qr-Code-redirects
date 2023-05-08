@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QR Code Redirect</title>
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VHEWNPGN3B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VHEWNPGN3B');
+</script>
+<script>
+  window.location.replace("https://docs.google.com/spreadsheets/d/1Ec52ya-WkK_dxg2fBG4U5DabNi6S7gJFn_qyhV0cX-c/edit?utm_source=qr_code&utm_medium=poster&utm_campaign=COMMUNICATIONS+CENTER#gid=327130614&D3=");
+</script>
+</head>
+<body>
+</body>
+</html>
 
